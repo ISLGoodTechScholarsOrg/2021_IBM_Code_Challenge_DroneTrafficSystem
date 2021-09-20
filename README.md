@@ -19,18 +19,15 @@ SampleSubmission2021
         A diagram depicting technical architecture of main components
         List of technical components used and its purpose as a table
 
-2. **code/** : Folder containing all your working source code and compiled outputs. 
-    - *source/* : Sub-folder for source code. Create further sub-folders to suite your needs
-    - *binary/* : Sub-folder for compiled/runnable executables, scripts, archives, etc. Create further sub-folders to suite your needs
+2. **src/** : Folder containing all your working source code. Create/modify further sub-folders to suite your needs
+    - 
+3. **bin/** : Sub-folder for compiled/runnable executables, scripts, archives, etc. Create further sub-folders to suite your needs
  
-3. **data/** : Folder containing all input, intermediate, and output data files
-    - *input/* : Folder for input data (binary, text, image, etc.) files, if any, in any format
-    - *working/* : Folder for intermediate or work-in-progress data files, if any, in any format
-    - *output/* : Folder for output data (binary, text, image, etc.) files, if any, in any format
+4. **data/** : Folder containing all input, intermediate, and output data (binary, text, image, etc.) files
  
-4. **demo/** : Folder containing one or more videos demonstrating the working of your prototype
+5. **demo/** : Folder containing one or more videos demonstrating the working of your prototype
  
-5. **presentation/** : Folder containing one or more presentation slides, whiteboards, murals, etc. to aid your pitch during evaluation phase
+6. **presentation/** : Folder containing one or more presentation slides, whiteboards, murals, etc. to aid your pitch during evaluation phase
  
-6. **license/** : Folder holding ALL license text for the proprietary or open-source components used in your prototype, data, video, or presentation. By default all the contributions adhere to Apache 2.0 license.
+6. **LICENSE/** : A file holding a merged license text for the proprietary or open-source components used in your prototype, data, video, or presentation. By default all the contributions adhere to Apache 2.0 license.
  
