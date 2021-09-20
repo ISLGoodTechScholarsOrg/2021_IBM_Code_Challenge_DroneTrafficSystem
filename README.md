@@ -4,7 +4,7 @@ This is a sample repository to be used as a template for submissions to IBM ISL 
 ## Structure of the repository
 SampleSubmission2021
 
-1. README.md : File containing information about your project. It should contain the following subsections:
+1. **README.md** : File containing information about your project. It should contain the following subsections:
                      
     - **List of contributors**
         An alphabetical listing of contributors name, college name, 
@@ -18,9 +18,10 @@ SampleSubmission2021
     - **Architecture**
         A diagram depicting technical architecture of main components
         List of technical components used and its purpose as a table
-
+        
+        
 2. **src/** : Folder containing all your working source code. Create/modify further sub-folders to suite your needs
-    - 
+
 3. **bin/** : Sub-folder for compiled/runnable executables, scripts, archives, etc. Create further sub-folders to suite your needs
  
 4. **data/** : Folder containing all input, intermediate, and output data (binary, text, image, etc.) files
